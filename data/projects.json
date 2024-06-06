@@ -1,5 +1,15 @@
 [    
     {
+        "title": "Pen Video Player",
+        "description": "A video player for Scratch that uses pen",
+        "url": "https://scratch.mit.edu/projects/602626065/"
+    },
+    {
+        "title": "Cloud List Engine",
+        "description": "A cloud list engine for Scratch",
+        "url": "https://scratch.mit.edu/projects/495545839/"
+    },
+    {
         "title": "Editor",
         "description": "A WYSIWYG Editor for the web",
         "url": "/projects/editor/"
